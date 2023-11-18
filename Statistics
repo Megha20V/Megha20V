@@ -1,0 +1,176 @@
+Statistics
+
+Range
+Mean
+Standard Deviation 
+
+
+Basics of statistics
+types of statistics
+population & sample
+central tendencies
+percentiles & dispersion
+statistics implementation with python 1
+Range ,Sample Variance & standaed Deviation 
+correlation & causation
+Hypothesis Testing
+Statistics Implementation with python 2
+
+
+types of data
+
+1 categoriacal (male,female)
+    Nominal (not provide any quantitative eg gender,colour of ball)
+    Ordinal  (values follow a natural order eg review of phone)
+
+2 numerical 
+    Discrete (not floating values)
+    Continuous (have floating values)
+    
+
+types of statistics
+
+1 Descriptive statistics (Describe the data)
+    data analysis (past data )
+    Mean , Median , Mode (Measure of central tendencies)
+    Range,Standard Deviation , variance (Measure of variability)
+
+
+2 Inferential statistics (inference about the data)
+    data science (future profit )'
+    population 100K ----> sample 10 K
+    
+
+Types of statistical study 
+
+1 Sample study (blood sugar level)
+    take sample data 
+    
+
+2 Observational study  (blood sugar level and physical activity )
+    simply collect and analyze data . we don't change
+    
+    
+3 Experimental study (healthy food , regular exercises & unhealthy food , minimal  exercises ) ( maximum group 1 have  optimum blood sugar level )
+
+    conditions are controlled and manipulated by experimenter
+    
+
+sample techniques 
+
+probability sampling techniques (all have equal probalility)
+    1 simple random sampling  (any random sample )
+        pros-(any random sample ) , somple method ,no bias
+        cons - data should be high , cannot represent the data well sometimes,
+        
+    2 systematic sampling (pick data at regular interval of time)
+        if it is homogeneous and data points are uniformly distributed
+    
+        pros - quick and easy , less bias ,
+        
+        cons - data manipulation risk , require randomness in data 
+    
+    3 stratified random sampling (data is divided into small groups (strata) and from the groups samples are obtained randomly )
+        pros - important characteristics , high precisions if strata is high differences 
+        
+        cons - cannnot perform that cannot be classified into groups , overlapping of data 
+    
+    4 cluster sampling
+        subdivided into clusters and random clusters(groups) are taken as sample
+        pros - few resourses , reduce variability
+        
+        cons - cannnot perform that cannot be classified into natural groups , overlapping of data ,can't provide a general for entire population 
+    
+    
+    
+Non-probability sampling techniques (all do not have equal probalility)
+
+
+
+central tendencies
+    Mean - sum of observations / total number of observations
+        if uniformaly distributed 
+    
+    Median - middle element in ascending order in odd or (a+b)/2 a,b are middle in even
+        if it is skewed(graph) we can use it 
+    
+    
+    Mode - repeated so many times 
+        if it is skewed(graph) and missing categorial values we can use it 
+        
+
+
+Measure of variability
+    Range - maximum , minimum value  min - max 
+    
+    
+    
+    
+    variance - sigma(x-mean)^2/total no of values 
+        sample variance - sigma(x-mean)^2/(total no of values -1)
+    
+    
+    
+
+    Standard Deviation - square root  of variance
+
+
+
+
+Percentiles and Quantiles
+
+    Percentiles - is value on scale of 100 that indicates the percent of a distribution that is equal to or below it
+    
+    
+    Quantiles - how many values are above or below a certain limit .it divide into equal size subgroups 
+    
+
+
+
+
+
+Correlation and Causation    
+
+
+Correlation - relation between the features in dataset ,but not one event is cause of the other event 
+
+    positive Correlation - relation is directly proportional
+    
+    negative Correlation -relation is indirectly proportional
+
+
+
+Causation - relation between the features in dataset , one event is cause of the other event 
+
+    
+
+
+
+Hypothesis Testing - assumption is made based on data ,and test the assumptions 
+
+
+Null Hypothesis -commonly accepted fact
+
+
+Alternative Hypothesis - opposite to null and it challenges the null hypothesis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

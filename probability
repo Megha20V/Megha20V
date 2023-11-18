@@ -1,0 +1,52 @@
+
+Probability 
+
+calculating likelihood of a event to occur
+
+
+Basics of probability 
+    lies between 0(impossible) - 1(certain event)
+    
+    probabiltiy of event to occur = (no of ways an event can occur)/(total no of outcomes)
+    
+    
+    
+    
+Random Variables
+    Discrete  - only discrete or distinict values
+    
+    Continuous - may be decimal 
+    
+    
+Probability Distribution 
+
+    
+
+    Normal Distribution
+        in data set most of data points lies in middle of the range and less in extrme
+    
+    Skewness - most of the data points are lied at one extrme 
+        negative skewed- points lies away from 0 (right side ) 
+        positive skewed- near to 0 (left side)
+    
+    Poisson Distribution
+        how many time an event is likely occur within a specified period of time 
+        
+        f(x) =(e^λ * λ^x)/x ! 
+
+        Where,
+        
+        f(x) = probability
+        
+        x= no of times event occur 
+
+        e is  Elur's number 2.71828 (the base of the logarithm) 
+
+
+        λ is mean no of events
+        
+        
+        
+    
+    
+
